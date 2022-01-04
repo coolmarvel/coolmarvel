@@ -24,7 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolmarvel&layout=compact)](https://github.com/coolmarvel/github-readme-stats)
 
-[![commitcombo](http://commitcombo.com/theme?user=coolmarvel&theme=DeepOcean&v=1)](https://github.com/devxb/CommitCombo)
+
 
 
 
