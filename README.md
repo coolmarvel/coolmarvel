@@ -5,7 +5,8 @@
   </h1>
 <h1 align="center">Hi, I'm coolmarvel SeongHyun</h1>
 <h3 align="center">A passionate frontend developer from back-end developer.</h3>
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=coolmarvel%20codding&fontSize=90)
+
+//![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=coolmarvel%20codding&fontSize=90)
 
 
 
