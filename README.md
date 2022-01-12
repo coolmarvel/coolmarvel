@@ -1,3 +1,10 @@
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;He+is+coolmarvel+SeongHyun....;Nice+to+meet+you!&center=true&size=30">
+    </a>
+  </h1>
+<h1 align="center">Hi 🫂, I'm coolmarvel SeongHyun</h1>
+<h3 align="center">A passionate frontend developer from back-end developer.</h3>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=coolmarvel%20codding&fontSize=90)
 
 
@@ -36,7 +43,7 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-7649bb?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
 <br><br><br>
-
+![Snake animation](https://github.com/joaovitormo/joaovitormo/blob/assets/github-contribution-grid-snake.svg)
 #### 📧 Email : marvel97@naver.com
 #### Blog : https://saranghaeo.tistory.com/
 
