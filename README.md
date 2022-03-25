@@ -3,7 +3,7 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+coolmarvel+SeongHyun....;Nice+to+meet+you!&center=true&size=30">
     </a>
   </h1>
-<h1 align="center">Hi, I'm coolmarvel SeongHyun</h1>
+<h1 align="center">Hi Im coolmarvel SeongHyun</h1>
 <h3 align="center">A passionate frontend developer from back-end developer.</h3>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=coolmarvel%20codding&fontSize=90)
