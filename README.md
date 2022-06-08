@@ -1,8 +1,4 @@
-<h1 align="center">
-    <a href="https://git.io/typing-svg"
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;coolmarvel+SeongHyun....;Nice+to+meet+you!&center=true&size=30">
-    </a>
-  </h1>
+
 
 ## 👋 &nbsp;풀스택 개발자 이성현. ☺️
 
@@ -31,7 +27,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcoolmarvel&count_bg=%238B08C0&title_bg=%23C20000&icon=node-dot-js.svg&icon_color=%23403535&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 
 
 
