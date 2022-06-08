@@ -12,39 +12,30 @@
 
 
 
-### 🥕 I am learning 
-- JavaScript
-- Java
-- BlockChain
-- React and React Native + Expo 
-- C++
-- PHP
-- Go
-- Linux Shell Script
-- Solidity
+### 🛠 &nbsp;Technical Skills
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=React.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+<br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcoolmarvel&count_bg=%238B08C0&title_bg=%23C20000&icon=node-dot-js.svg&icon_color=%23403535&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 
+### 💻 &nbsp;GitHub Analytics
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=coolmarvel&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolmarvel&layout=compact)](https://github.com/coolmarvel/github-readme-stats)
-
-
-
-
-<!-- 
-<img src="https://img.shields.io/badge/HTML5-f16524?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-28a4d8?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-f7e018?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-7ddfff?style=flat-square&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/Redux-7649bb?style=flat-square&logo=Redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-7649bb?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp  -->
-<br><br><br>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=congchu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
 
 
 
