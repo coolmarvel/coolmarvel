@@ -3,8 +3,6 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;coolmarvel+SeongHyun....;Nice+to+meet+you!&center=true&size=30">
     </a>
   </h1>
-<h1 align="center">Hi, I'm coolmarvel SeongHyun</h1>
-<h3 align="center">A passionate frontend developer from back-end developer.</h3>
 
 ## 👋 &nbsp;풀스택 개발자 이성현. ☺️
 
