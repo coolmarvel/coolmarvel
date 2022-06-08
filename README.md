@@ -6,7 +6,12 @@
 <h1 align="center">Hi, I'm coolmarvel SeongHyun</h1>
 <h3 align="center">A passionate frontend developer from back-end developer.</h3>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=coolmarvel%20codding&fontSize=90)
+## 👋 &nbsp;풀스택 개발자 이성현. ☺️
+
+✔️ &nbsp;블록체인 및 백엔드 개발에 익숙합니다.\
+✔️ &nbsp;명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.\
+✔️ &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
+✔️ &nbsp;저에 대해 궁금하시다면, <a href="https://coolmarvel.github.io/coolmarvel_portfolio/">제 포트폴리오</a>를 방문해주세요.
 
 
 
@@ -14,14 +19,14 @@
 
 ### 🛠 &nbsp;Technical Skills
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;\
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=React.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
