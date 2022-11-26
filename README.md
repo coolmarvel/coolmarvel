@@ -1,4 +1,4 @@
-## 👋 &nbsp;블록체인 개발자 이성현. ☺️s
+## 👋 &nbsp;블록체인 개발자 이성현. ☺️
 
 ✔️ &nbsp;블록체인 및 백엔드 개발에 익숙합니다.\
 ✔️ &nbsp;명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.\
@@ -13,7 +13,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;\
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=ava)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity&logoColor=563D7C)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=React.js)&nbsp;
