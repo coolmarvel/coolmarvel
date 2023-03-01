@@ -19,7 +19,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;\
-![Express](https://img.shields.io/badge/-Express.js-05122A?stype=flat&logo=express)&bnsp;
+![Express](https://img.shields.io/badge/-Express.js-05122A?stype=flat&logo=express)&bnsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
