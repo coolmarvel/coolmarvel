@@ -3,7 +3,7 @@
 ✔️ &nbsp;블록체인 및 백엔드 개발에 익숙합니다.\
 ✔️ &nbsp;명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.\
 ✔️ &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
-✔️ &nbsp;저에 대해 궁금하시다면, <a href="https://coolmarvel.github.io/coolmarvel_portfolio/">포트폴리오</a>, <a href="https://www.notion.so/coolmarvel/Coverage-252ad2de62e94f3f82de2d5f81d2dc63">노션</a>을 방문해주세요.
+✔️ &nbsp;저에 대해 궁금하시다면, <a href="https://coolmarvel.github.io/coolmarvel_portfolio/">포트폴리오</a>, <a href="https://coolmarvel.notion.site/coolmarvel/Portfolio-14dd605b71404415b6b562576e9e4128">노션</a>을 방문해주세요.
 
 
 
